@@ -1,8 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
 
-# In[255]:
-
 
 class technical_indicators():
     
